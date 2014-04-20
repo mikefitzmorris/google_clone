@@ -34,6 +34,12 @@ li {
 	text-decoration: none;
 }
 
+#signin {
+	height: 27px:;
+	margin: 47px 32px 0px 0px;
+	text-align: right;
+}
+
 #signin button {
 	background-color: #D14836;
 	border: 1px solid #FFFFFF;
@@ -66,20 +72,4 @@ li {
 	border: 1px solid rgba(0, 0, 0, 0.1);
 	margin: 4px;
 	border-radius: 2px;
-}
-
-#footer ul {
-	text-align: right;
-	margin-top: 3px;
-	padding-right: 3px;
-
-}
-
-#footer ul li a {
-	color: #666666;
-	text-decoration: none;
-}
-
-#footer ul li a:hover {
-	text-decoration: underline;
 }
